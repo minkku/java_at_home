@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+/Users/minkyu/Desktop/JAVA/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+4136193009.index
